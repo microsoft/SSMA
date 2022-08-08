@@ -6,8 +6,6 @@ This project uses GitHub Issues to track bugs and feature requests. Please searc
 issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
 feature request as a new Issue.
 
-For help and questions about using this project, please mail us at [SSMA Help](mailto:ssmahelp@microsoft.com) (ssmahelp@microsoft.com)
-
 ## Microsoft Support Policy  
 
 Support for this **PRODUCT** is limited to the resources listed above.
